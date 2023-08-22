@@ -1,0 +1,1 @@
+{"confirmed_email":"    \"\"\"\n    Confirms a user's email by setting the 'confirmed' flag to True.\n\n    :param email: The email address of the user to confirm.\n    :type email: str\n    :param db: An asynchronous database session.\n    :type db: AsyncSession\n    \"\"\""}
