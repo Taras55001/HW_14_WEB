@@ -10,8 +10,8 @@ import os
 
 sys.path.append(os.path.abspath('..'))
 project = 'Rest API'
-copyright = '2023, Taras'
-author = 'Taras'
+copyright = '2023, Taras55001'
+author = 'Taras55001'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
